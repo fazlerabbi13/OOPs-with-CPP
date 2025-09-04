@@ -27,6 +27,6 @@ int main() {
     
     // Creating object of sub class will
     // invoke the constructor of base classes.
-    AmphibiousVehicle obj;
+    // AmphibiousVehicle obj;
     return 0;
 }
