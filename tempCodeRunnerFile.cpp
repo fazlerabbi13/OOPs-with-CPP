@@ -1,0 +1,1 @@
+Sub class derived from a single base classes
