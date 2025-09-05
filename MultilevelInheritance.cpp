@@ -8,12 +8,12 @@ public:
     }
 };
 
-// class fourWheeler : public Vehicle {
-// public:
-//     fourWheeler() {
-//         cout << "4 Wheeler Vehicles"<< endl;
-//     }
-// };
+class fourWheeler : public Vehicle {
+public:
+    fourWheeler() {
+        cout << "4 Wheeler Vehicles"<< endl;
+    }
+};
 
 // class Car : public fourWheeler {
 // public:
