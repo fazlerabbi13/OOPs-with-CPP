@@ -15,12 +15,12 @@ public:
     }
 };
 
-// class Car : public fourWheeler {
-// public:
-//     Car() {
-//         cout << "This 4 Wheeler Vehical is a Car";
-//     }
-// };
+class Car : public fourWheeler {
+public:
+    Car() {
+        cout << "This 4 Wheeler Vehical is a Car";
+    }
+};
 
 int main() {
     
