@@ -15,12 +15,12 @@ public:
     }
 };
 
-// class Car : public Vehicle {
-//   public:
-//   Car() {
-//       cout << "This Vehical is a Car"<< endl;
-//   }
-// };
+class Car : public Vehicle {
+  public:
+  Car() {
+      cout << "This Vehical is a Car"<< endl;
+  }
+};
 
 // class Bus : public Vehicle, public Fare {
 //   public:
