@@ -22,12 +22,12 @@ class Car : public Vehicle {
   }
 };
 
-// class Bus : public Vehicle, public Fare {
-//   public:
-//   Bus() {
-//       cout << "This Vehicle is a Bus with Fare";
-//   }
-// };
+class Bus : public Vehicle, public Fare {
+  public:
+  Bus() {
+      cout << "This Vehicle is a Bus with Fare";
+  }
+};
 
 int main() {
     
