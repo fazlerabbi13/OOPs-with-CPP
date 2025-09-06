@@ -8,12 +8,12 @@ public:
     }
 };
 
-// class Fare {
-// public:
-//     Fare() {
-//         cout << "Fare of Vehicle"<< endl;
-//     }
-// };
+class Fare {
+public:
+    Fare() {
+        cout << "Fare of Vehicle"<< endl;
+    }
+};
 
 // class Car : public Vehicle {
 //   public:
