@@ -15,12 +15,12 @@ public:
     }
 };
 
-// class Bus : public Vehicle {
-// public:
-//     Bus() {
-//         cout << "This Vehicle is Bus"<< endl;
-//     }
-// };
+class Bus : public Vehicle {
+public:
+    Bus() {
+        cout << "This Vehicle is Bus"<< endl;
+    }
+};
 
 int main() {
     
