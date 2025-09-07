@@ -16,7 +16,7 @@ public:
 };
 
 int main() {
-    Child Child_Derived;
-    Child_Derived.GeeksforGeeks_Print();
+    // Child Child_Derived;
+    // Child_Derived.GeeksforGeeks_Print();
     return 0;
 }
