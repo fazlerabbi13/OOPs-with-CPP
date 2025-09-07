@@ -8,12 +8,12 @@ public:
     }
 };
 
-// class Child : public Parent {
-// public:
-//     void GeeksforGeeks_Print() {
-//         cout << "Derived Function";
-//     }
-// };
+class Child : public Parent {
+public:
+    void GeeksforGeeks_Print() {
+        cout << "Derived Function";
+    }
+};
 
 int main() {
     // Child Child_Derived;
